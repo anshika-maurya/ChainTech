@@ -136,7 +136,9 @@ body {
   justify-content: center;
   align-items: center;
   gap: 1rem;
-  margin-left: 42.94rem;
+  margin-left: 42.84rem;
+  padding: .85rem;
+  margin-top: 2.5rem;
 }
 
 .container #para2 {
