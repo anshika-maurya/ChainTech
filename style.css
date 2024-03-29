@@ -165,16 +165,16 @@ body {
   margin-right: 38.5rem;
   margin-top: 4.2rem;
   margin-left: -1rem;
-   margin-bottom: .7rem;
+  
 }
 .testimonial-title p {
   font-size: 0.9rem;
   font-weight: normal;
   line-height: 0.8;
-  margin-left: -.25rem;
+  margin-left: -1.4rem;
   letter-spacing: 0.02rem;
   width: 42rem;
-  margin-top: -1rem;
+ margin-top: -0.2rem;
   margin-bottom: -0.6rem;
 }
 
